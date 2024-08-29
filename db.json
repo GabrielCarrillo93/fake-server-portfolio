@@ -181,6 +181,13 @@
             "plataforma": "Argentina Programa 4.0",
             "fecha": "29-11-2023",
             "imagen": "https://images2.imgbox.com/73/01/sjrvFx7S_o.jpg"
+        }, 
+        {
+            "id": 11,
+            "titulo": "Desarrollo web (Javascript/Node.JS)",
+            "plataforma": "Codo a Codo",
+            "fecha": "29-08-2024",
+            "imagen": "https://i.imgur.com/tyBA0Zp.jpeg"
         }
     ]
 }
